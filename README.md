@@ -1,4 +1,4 @@
-# Q-learning
+# FrozenLake8x8 with Q-learning
 
 
 Program the Q-Learning algorithm and use it to determine a decision policy for the FrozenLake8x8-v0 problem: \
